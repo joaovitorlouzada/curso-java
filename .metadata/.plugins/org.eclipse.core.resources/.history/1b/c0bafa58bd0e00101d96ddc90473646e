@@ -1,0 +1,34 @@
+package entidades;
+
+public class PessoaJuridica extends Contribuinte{
+	
+	private int numeroDeFuncionarios;
+	
+	public PessoaJuridica() {
+		
+	}
+
+	public PessoaJuridica(String nome, Double rendaAnual, int numeroDeFuncionarios) {
+		super(nome, rendaAnual);
+		numeroDeFuncionarios = numeroDeFuncionarios;
+	}
+
+	public int getNumeroDeFuncionarios() {
+		return numeroDeFuncionarios;
+	}
+
+	public void setNumeroDeFuncionarios(int numeroDeFuncionarios) {
+		numeroDeFuncionarios = numeroDeFuncionarios;
+	}
+	@Override
+	public Double calcularImposto() {
+		Double imposto = 0.0;
+		if(numeroDeFuncionarios > 10) {
+			return 0.0;
+		}
+		else {
+			return 0.0;
+		}
+	}
+
+}

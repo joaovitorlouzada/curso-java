@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="entidades.Triangulo"/>
+    <fullyQualifiedTypeName name="entidades.Produto"/>
+    <fullyQualifiedTypeName name="entidades.Retangulo"/>
+    <fullyQualifiedTypeName name="entidades.Estudante"/>
+    <fullyQualifiedTypeName name="util.Calculadora"/>
+    <fullyQualifiedTypeName name="util.Conversor"/>
+    <fullyQualifiedTypeName name="entidades.ContaBancaria"/>
+    <fullyQualifiedTypeName name="entidades.Pessoa"/>
+    <fullyQualifiedTypeName name="entidades.Aluguel"/>
+    <fullyQualifiedTypeName name="entidades.Funcionario"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
+    <fullyQualifiedTypeName name="entidades.StatusDoPedido"/>
+    <fullyQualifiedTypeName name="entities.Client"/>
+    <fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
+    <fullyQualifiedTypeName name="entities.Account"/>
+    <fullyQualifiedTypeName name="entities.SavingsAccount"/>
+    <fullyQualifiedTypeName name="entities.BusinessAccount"/>
+    <fullyQualifiedTypeName name="entities.Employee"/>
+    <fullyQualifiedTypeName name="entities.enums.Color"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+</qualifiedTypeNameHistroy>

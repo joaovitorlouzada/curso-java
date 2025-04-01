@@ -1,0 +1,13 @@
+package entities;
+
+public class BusinessAccount extends Account {
+	
+	private Double loanLimit;
+	
+	public void loan(Double amount) {
+		if(amount < loanLimit) {
+			balance += amount;
+		}
+	}
+
+}

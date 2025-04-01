@@ -1,0 +1,15 @@
+package aplication;
+
+import entities.Post;
+import entities.Comment;
+
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Post post1 = new Post();
+
+	}
+
+}

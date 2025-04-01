@@ -1,0 +1,18 @@
+package aplication;
+
+import entities.Post;
+import entities.Comment;
+
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Comment c1 = new Comment("Have a nice trip!");
+		Comment c2 = new Comment("Wow that's awesome");
+		
+		Post post1 = new Post(); 
+
+	}
+
+}

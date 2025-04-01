@@ -1,0 +1,28 @@
+package entities;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+import entities.enums.*;
+
+public class Order {
+	
+	private Date moment;
+	private OrderStatus orderStatus;
+	
+	List <OrderItem> items = new ArrayList<>();
+	
+	public Order() {
+		
+	}
+
+	public Order(Date moment, OrderStatus orderStatus, List<OrderItem> items) {
+		super();
+		this.moment = moment;
+		this.orderStatus = orderStatus;
+		this.items = items;
+	}
+	
+
+}

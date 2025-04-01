@@ -1,0 +1,12 @@
+package entities;
+
+import java.util.Date;
+import entities.enums.*;
+
+public class Order {
+	
+	private Date moment;
+	private OrderStatus orderStatus;
+	
+	List <OrderItems> items = new ArrayList<>();
+}

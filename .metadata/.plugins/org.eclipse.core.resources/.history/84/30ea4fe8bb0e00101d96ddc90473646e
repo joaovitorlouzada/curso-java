@@ -1,0 +1,11 @@
+package entidades;
+
+public class Contribuinte {
+	
+	protected String nome;
+	protected Double rendaAnual;
+
+	public Contribuinte() {
+		
+	}
+}

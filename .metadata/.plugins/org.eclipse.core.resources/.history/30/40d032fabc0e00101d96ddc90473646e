@@ -1,0 +1,7 @@
+package entidades;
+
+public class PessoaJuridica extends Contribuinte{
+	
+	private int NumeroDeFuncionarios;
+
+}

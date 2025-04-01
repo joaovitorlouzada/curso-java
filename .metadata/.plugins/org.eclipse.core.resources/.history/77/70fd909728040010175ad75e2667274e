@@ -1,0 +1,13 @@
+package aplicacao;
+
+import java.time.LocalDate;
+
+public class Programa {
+
+	public static void main(String[] args) {
+		
+		LocalDate = d01 = LocalDate.now();
+
+	}
+
+}

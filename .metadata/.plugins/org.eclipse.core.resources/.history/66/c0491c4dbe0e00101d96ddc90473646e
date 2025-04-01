@@ -1,0 +1,26 @@
+package aplicacao;
+
+import java.util.Scanner;
+
+public class Programa {
+
+	public static void main(String[] args) {
+		
+		Scanner leia = new Scanner(System.in);
+		
+		System.out.print("Entre com o número de contribuintes: ");
+		int num = leia.nextInt();
+		
+		for(int i = 0; i < num; i++) {
+			System.out.println("Dados do contribuinte #" +(i+1));
+			System.out.println("Pessoa fisica ou Pessoa Juridica (f/j):  ");
+			System.out.print("Nome:");
+			String nome = leia.nextLine();
+			System.out.print("Renda Anual: ");
+			Double rendaAnual = leia.nextDouble();
+			if()
+		}
+
+	}
+
+}
