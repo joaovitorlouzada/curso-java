@@ -11,7 +11,6 @@
     <fullyQualifiedTypeName name="entidades.Pessoa"/>
     <fullyQualifiedTypeName name="entidades.Aluguel"/>
     <fullyQualifiedTypeName name="entidades.Funcionario"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.time.Instant"/>
     <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
     <fullyQualifiedTypeName name="entidades.StatusDoPedido"/>
@@ -25,4 +24,9 @@
     <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
     <fullyQualifiedTypeName name="model.exceptions.DomainException"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="entities.ExercicioPropostoProduto"/>
+    <fullyQualifiedTypeName name="entidades.AluguelDeCarro"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
 </qualifiedTypeNameHistroy>
